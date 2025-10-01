@@ -1,1 +1,80 @@
+## `_config.yml`
+```yaml
+# Site settings
+locale: en-US
+title: "YOUR NAME"
+name: "YOUR NAME"
+description: "CEO | Board Member | Growth Strategist"
+url: "https://YOUR-USERNAME.github.io"
+baseurl: ""  # keep empty for user.github.io root sites
 
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"   # choices: default, air, contrast, dark, dirt, neon, mint, etc.
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 5
+paginate_path: /page:num/
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Author profile (appears in sidebar/footers if enabled)
+author:
+  name: "Michael Ramsdail"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "C-suite executive focused on transformation, growth, and leadership."
+  location: "Aurora, CO"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/michael-ramsdail-1467ba138/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:michael.ramsdail@gmail.com"
+    - label: "Press Kit"
+      icon: "fas fa-fw fa-download"
+      url: "/downloads/"  # create later if desired
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: false
+      classes: wide
+
+# Navigation (uses _data/navigation.yml)
+collections: {}
+
+# SEO & social
+social:
+  type: Person
+  name: "Michael Ramsdail"
+  links:
+    - "https://www.linkedin.com/in/michael-ramsdail-1467ba138/"
+    - "mailto:michael.ramsdail@gmail.com"
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Google Analytics (optional)
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-XXXXXXXXXX"
+```
