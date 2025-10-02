@@ -6,13 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: 0.5
   overlay_image: /assets/images/hero.jpg
-  actions:
-    - label: "Contact"
-      url: "{{ '/contact/' | relative_url }}"
-    - label: "Speaking"
-      url: "{{ '/speaking/' | relative_url }}"
-    - label: "Consulting"
-      url: "{{ '/consulting/' | relative_url }}"
 excerpt: "President & CEO | Strategic Planning • Operations • Community Impact"
 classes: "landing"
 ---
