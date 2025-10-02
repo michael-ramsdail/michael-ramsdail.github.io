@@ -2,7 +2,7 @@
 locale: en-US
 title: "Michael Ramsdail"
 name: "Michael Ramsdail"
-description: "President & CEO | Strategic Planning • Operations • Community Impact"
+description: "Executive | Strategic Planning • Operations • Community Impact"
 url: "https://michael-ramsdail.github.io"
 baseurl: ""  # keep empty for user.github.io root sites
 
@@ -53,6 +53,9 @@ defaults:
 # Navigation (uses _data/navigation.yml)
 collections: {}
 
+include:
+  - _pages
+  
 # SEO & social
 social:
   type: Person
@@ -68,7 +71,7 @@ exclude:
   - node_modules
   - vendor
 
-# Google Analytics (optional)
+# Google Analytics
 # analytics:
 #   provider: "google-gtag"
 #   google:
