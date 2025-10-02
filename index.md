@@ -1,12 +1,12 @@
 ---
 layout: splash
 title: "Michael Ramsdail"
-description: "Michael Ramsdail is a President & CEO with 20+ years of leadership experience in strategy, operations, and community impact across nonprofit, education, hospitality, and senior living."
+description: "Michael Ramsdail is an executive with 20+ years of leadership experience in strategy, operations, and community impact across nonprofit, education, hospitality, and senior living."
 header:
   overlay_color: "#000"
   overlay_filter: 0.5
   overlay_image: /assets/images/hero.jpg
-excerpt: "President & CEO | Strategic Planning • Operations • Community Impact"
+excerpt: "Executive | Strategic Planning • Operations • Community Impact"
 classes: "landing"
 ---
 
