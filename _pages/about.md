@@ -20,3 +20,5 @@ title: "About"
 - Grew a department from **2 to 15 employees** + **20 volunteers** within **24 months**.
 - Raised **$2M+** in funding and developed community networks across **20+ organizations**.
 - Developed 5‑year budgets and capital plans for organizations of **$4M**, **$120M**, and **$300M**.
+
+[Download Résumé (PDF)](/assets/docs/michael-ramsdail-resume.pdf){: .btn .btn--primary}
