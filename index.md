@@ -7,11 +7,11 @@ header:
   overlay_image: /assets/images/headshot.jpg
   actions:
     - label: "Contact"
-      url: "/contact/"
+      url: "{{ '/contact/' | relative_url }}"
     - label: "Speaking"
-      url: "/speaking/"
+      url: "{{ '/speaking/' | relative_url }}"
     - label: "Consulting"
-      url: "/consulting/"
+      url: "{{ '/consulting/' | relative_url }}"
 excerpt: "President & CEO | Strategic Planning • Operations • Community Impact"
 classes: "landing"
 ---
