@@ -1,5 +1,3 @@
-## `index.md` (Landing — uses the "splash" layout)
-```markdown
 ---
 layout: splash
 title: "Michael Ramsdail"
