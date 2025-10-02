@@ -1,5 +1,3 @@
-## `_data/navigation.yml`
-```yaml
 main:
   - title: "About"
     url: /about/
@@ -13,4 +11,3 @@ main:
     url: /consulting/
   - title: "Contact"
     url: /contact/
-```
