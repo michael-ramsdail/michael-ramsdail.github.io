@@ -2,10 +2,10 @@
 ```yaml
 # Site settings
 locale: en-US
-title: "YOUR NAME"
-name: "YOUR NAME"
-description: "CEO | Board Member | Growth Strategist"
-url: "https://YOUR-USERNAME.github.io"
+title: "Michael Ramsdail"
+name: "Michael Ramsdail"
+description: "President & CEO | Strategic Planning • Operations • Community Impact"
+url: "https://michael.ramsdail.github.io"
 baseurl: ""  # keep empty for user.github.io root sites
 
 # Theme
@@ -30,7 +30,7 @@ plugins:
 author:
   name: "Michael Ramsdail"
   avatar: "/assets/images/headshot.jpg"
-  bio: "C-suite executive focused on transformation, growth, and leadership."
+  bio: "Dynamic executive with 20+ years leading strategy, operations, and community-focused growth across nonprofits, education, hospitality, and senior living."
   location: "Aurora, CO"
   links:
     - label: "LinkedIn"
@@ -39,9 +39,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:michael.ramsdail@gmail.com"
-    - label: "Press Kit"
-      icon: "fas fa-fw fa-download"
-      url: "/downloads/"  # create later if desired
 
 # Defaults for pages
 defaults:
