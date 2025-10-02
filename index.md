@@ -26,4 +26,3 @@ Welcome! I'm **Michael Ramsdail**, a dynamic executive with 20+ years leading st
 - **Raised $2M+** in funding; coordinated a **20‑org** community support network.
 - Managed strategic planning for nonprofits, school districts, churches, and community programs.
 - Led DEI training and initiatives for executives, managers, and boards since **2004**.
-```
